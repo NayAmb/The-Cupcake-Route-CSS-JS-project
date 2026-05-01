@@ -11,3 +11,13 @@ The goal of this project to create a professional website where users can view t
 
 ## Technologies used
 Html CSS Javascript
+
+## CSS features
+- Color palette used
+- Google fonts added (Madimi One and Open Sans)
+- Styled buttons and gradients added
+
+## Javascript features
+- Mobile hamburger nav menu
+- Toggle function
+- Icon changes when menu is open or closed
